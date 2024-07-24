@@ -17,5 +17,5 @@ $ xtcInfoMgr read <path/to/your/img/file>
 2. Write New SelfRsaKey(Required) And Keyid(Optional) To Your XtcInfo File.
 
 ```
-$ xtcInfoMgr write <path/to/yout/img/file> <selfRsaKey> <keyid(Optional)>
+$ xtcInfoMgr write <path/to/yout/img/file> <selfRsaKey> --keyid <keyid(Optional)>
 ```
